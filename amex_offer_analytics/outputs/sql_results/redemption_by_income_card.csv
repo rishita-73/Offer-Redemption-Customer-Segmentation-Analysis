@@ -1,0 +1,17 @@
+income_bracket,card_type,exposures,redemption_rate_pct,total_revenue
+Affluent,Green,2538,31.91,2183899.66
+Affluent,Centurion,337,31.75,344431.34
+Affluent,Gold,1987,30.2,1653191.86
+Affluent,Platinum,949,28.03,879880.3
+High,Gold,5619,27.98,2940532.94
+High,Green,6057,27.84,3240821.53
+High,Platinum,2759,27.73,1552146.72
+High,Centurion,705,26.67,319703.98
+Mid,Centurion,1531,26.26,463140.17
+Mid,Gold,9535,25.96,2867262.15
+Mid,Green,10765,25.28,3277464.5
+Mid,Platinum,4972,25.26,1404664.16
+Low,Platinum,2445,24.46,507370.35
+Low,Green,5093,24.25,1037999.15
+Low,Centurion,495,23.23,84550.68
+Low,Gold,4213,22.69,772824.99

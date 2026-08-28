@@ -1,0 +1,151 @@
+merchant_id,merchant_name,category,region
+M2000,Hogan and Sons,Grocery,South
+M2001,Hall Ltd,Entertainment,South
+M2002,"Herring, Wilson and Mendoza",Fuel,West
+M2003,"Carpenter, Rojas and Taylor",Dining,West
+M2004,"White, Liu and Lindsey",Entertainment,East
+M2005,Odonnell PLC,Health & Wellness,South
+M2006,"Stephens, Jones and Ryan",Travel,Central
+M2007,Morgan PLC,Electronics,West
+M2008,Green LLC,Health & Wellness,Central
+M2009,"Taylor, White and Patterson",Dining,South
+M2010,Taylor and Sons,Grocery,South
+M2011,"Fields, Holmes and Weber",Retail,North
+M2012,Henderson Ltd,Retail,West
+M2013,"Miller, Wolf and Murray",Fuel,South
+M2014,"Hill, Boone and Johnson",Entertainment,South
+M2015,Deleon Ltd,Retail,West
+M2016,"Johnson, Pacheco and Johnson",Health & Wellness,North
+M2017,Martin-Harmon,Entertainment,North
+M2018,"Willis, Miller and Lee",Fuel,North
+M2019,Gonzales PLC,Fuel,North
+M2020,"Watson, Cobb and Goodman",Travel,East
+M2021,"Johnson, Hernandez and Gomez",Travel,West
+M2022,Chambers-Norton,Grocery,West
+M2023,"Brewer, Goodwin and Green",Electronics,West
+M2024,Gardner and Sons,Travel,North
+M2025,"Barnett, Fernandez and Mitchell",Entertainment,North
+M2026,"Kent, Jones and Thompson",Retail,South
+M2027,Mason-Kramer,Travel,East
+M2028,Gray-Williams,Travel,West
+M2029,Mcdonald-Williams,Entertainment,East
+M2030,Smith LLC,Fuel,West
+M2031,Gray Ltd,Travel,North
+M2032,Davis-Ramsey,Retail,North
+M2033,Moreno-Sullivan,Electronics,West
+M2034,"Martinez, Gutierrez and Salinas",Retail,Central
+M2035,"Perez, Morris and Stanley",Fuel,North
+M2036,Collins-Jackson,Electronics,South
+M2037,"Bennett, Williams and Klein",Retail,North
+M2038,"Harrison, Russell and Allen",Health & Wellness,South
+M2039,"Chase, Grant and Montgomery",Health & Wellness,East
+M2040,Barton Ltd,Fuel,North
+M2041,"Lopez, Brown and Adams",Retail,North
+M2042,Hebert Group,Dining,East
+M2043,Davenport-Martinez,Fuel,South
+M2044,"Herman, Rodgers and Green",Retail,Central
+M2045,"Green, Vincent and Thompson",Fuel,South
+M2046,Jimenez-Galvan,Fuel,West
+M2047,"Lee, Robbins and Lopez",Dining,West
+M2048,"Brown, Adams and Moore",Retail,West
+M2049,Thomas Group,Fuel,East
+M2050,"Gregory, Barber and Boyd",Fuel,South
+M2051,"Caldwell, Cross and Russell",Retail,North
+M2052,Smith Group,Entertainment,West
+M2053,"Anderson, Bowen and Kirk",Electronics,South
+M2054,Lewis-Collins,Retail,North
+M2055,Miller-Marks,Travel,South
+M2056,Carter-Hendrix,Retail,East
+M2057,Moore-Shah,Health & Wellness,West
+M2058,Todd-Cline,Grocery,Central
+M2059,Lopez and Sons,Health & Wellness,West
+M2060,"Lowe, Morgan and Vega",Entertainment,West
+M2061,Lee-Grimes,Entertainment,East
+M2062,"Johnson, Miller and Bennett",Retail,North
+M2063,Conner-Roy,Grocery,West
+M2064,"Johnston, Briggs and Wagner",Fuel,North
+M2065,Ingram Ltd,Electronics,North
+M2066,Richardson PLC,Retail,East
+M2067,"Mason, White and Haas",Travel,West
+M2068,Swanson-Anderson,Fuel,East
+M2069,"Decker, Brown and Watts",Entertainment,East
+M2070,Roberts Ltd,Fuel,Central
+M2071,Kaiser LLC,Entertainment,East
+M2072,Harris and Sons,Electronics,Central
+M2073,Booker LLC,Grocery,North
+M2074,Poole LLC,Dining,North
+M2075,"Edwards, Fletcher and Foster",Electronics,South
+M2076,Roman Inc,Grocery,South
+M2077,Davis PLC,Health & Wellness,North
+M2078,Fox-Griffith,Fuel,West
+M2079,Stephens PLC,Travel,South
+M2080,Allen Inc,Grocery,East
+M2081,"Shelton, Vasquez and Taylor",Electronics,South
+M2082,"Morris, Perez and Khan",Dining,North
+M2083,Cummings Inc,Fuel,West
+M2084,"Juarez, Crawford and Nixon",Travel,North
+M2085,Davis-Yu,Travel,West
+M2086,Maxwell-Cortez,Health & Wellness,South
+M2087,"Snow, Smith and Lopez",Dining,East
+M2088,Osborn Inc,Health & Wellness,East
+M2089,"Rodriguez, Osborne and Rodriguez",Retail,North
+M2090,Monroe PLC,Grocery,West
+M2091,Sanchez Group,Electronics,South
+M2092,Kennedy-Warner,Travel,West
+M2093,Daniel-Morrow,Electronics,West
+M2094,"Wilson, Hardy and Perry",Grocery,West
+M2095,Khan Ltd,Fuel,South
+M2096,Myers PLC,Dining,West
+M2097,Anderson-Brown,Health & Wellness,East
+M2098,Munoz-Stokes,Entertainment,North
+M2099,"Fowler, Andrews and Rodriguez",Dining,Central
+M2100,Perez-Sanders,Grocery,West
+M2101,Cooper-Johnson,Travel,East
+M2102,Avila Group,Fuel,East
+M2103,Jackson Ltd,Grocery,North
+M2104,David PLC,Fuel,North
+M2105,"Wagner, Jones and Hayes",Entertainment,Central
+M2106,Morgan-Jones,Travel,Central
+M2107,Peck-Dominguez,Fuel,Central
+M2108,"Carter, Stone and Russell",Entertainment,South
+M2109,"Williams, Richardson and Smith",Fuel,South
+M2110,Young-Walls,Retail,East
+M2111,Graham-Gibbs,Electronics,North
+M2112,Stone Inc,Dining,West
+M2113,Francis Group,Retail,North
+M2114,Mcmillan and Sons,Grocery,South
+M2115,Meyer and Sons,Health & Wellness,East
+M2116,Myers-Wilkerson,Retail,West
+M2117,Meyers Inc,Dining,Central
+M2118,Moore-Bryant,Travel,Central
+M2119,Bentley-Lewis,Electronics,South
+M2120,Saunders LLC,Entertainment,East
+M2121,Kelly-Roth,Fuel,North
+M2122,"Pierce, Graham and Rodriguez",Health & Wellness,South
+M2123,"Boone, Coleman and Hoffman",Travel,North
+M2124,Howell PLC,Electronics,West
+M2125,Roberts-Mccarty,Retail,North
+M2126,Allen PLC,Grocery,West
+M2127,Leon Group,Retail,East
+M2128,Cooper and Sons,Dining,South
+M2129,Roy-Durham,Dining,North
+M2130,"English, Taylor and Williams",Grocery,East
+M2131,Brewer PLC,Electronics,East
+M2132,"Martinez, Garcia and Wood",Travel,North
+M2133,"Benson, Obrien and Williams",Fuel,Central
+M2134,Kaiser-Carpenter,Fuel,Central
+M2135,Pratt LLC,Dining,West
+M2136,"White, Smith and Cowan",Dining,East
+M2137,Aguilar-Martin,Grocery,South
+M2138,"Mccarthy, Hanson and Garrett",Travel,South
+M2139,"Armstrong, Bennett and Deleon",Health & Wellness,East
+M2140,Greer-May,Health & Wellness,Central
+M2141,"Reese, Lowe and Juarez",Retail,East
+M2142,Davis-Boyd,Entertainment,West
+M2143,Nichols LLC,Grocery,East
+M2144,"Cruz, Crane and Wright",Travel,North
+M2145,Cunningham-Phillips,Entertainment,Central
+M2146,"Clay, Hudson and Sparks",Fuel,North
+M2147,Ashley and Sons,Grocery,North
+M2148,Lopez and Sons,Retail,East
+M2149,Deleon-Parsons,Retail,East

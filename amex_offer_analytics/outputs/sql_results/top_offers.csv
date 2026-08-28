@@ -1,0 +1,11 @@
+offer_id,merchant_name,category,offer_type,discount_pct,exposures,redemptions,redemption_rate_pct
+O5382,Swanson-Anderson,Fuel,Cashback,30,91,46,50.55
+O5338,Roman Inc,Grocery,Bonus Points,25,95,48,50.53
+O5425,"Green, Vincent and Thompson",Fuel,Discount,30,87,42,48.28
+O5011,Cooper and Sons,Dining,Bonus Points,25,105,50,47.62
+O5491,Roy-Durham,Dining,Statement Credit,25,110,52,47.27
+O5324,Stone Inc,Dining,Statement Credit,25,120,56,46.67
+O5177,Allen PLC,Grocery,Discount,20,106,48,45.28
+O5417,Stone Inc,Dining,Bonus Points,30,83,37,44.58
+O5407,"White, Smith and Cowan",Dining,Discount,20,98,43,43.88
+O5261,Roman Inc,Grocery,Statement Credit,30,92,40,43.48
