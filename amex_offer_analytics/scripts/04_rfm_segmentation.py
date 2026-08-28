@@ -4,8 +4,6 @@ Builds RFM (Recency, Frequency, Monetary) features per customer from
 offer_exposures, standardizes them, and runs K-Means to produce
 business-readable customer segments.
 
-Run:    python 04_rfm_segmentation.py
-Output: outputs/segmented_customers.csv
 """
 
 import os
