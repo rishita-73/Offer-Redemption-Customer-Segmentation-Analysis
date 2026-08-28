@@ -1,18 +1,9 @@
 """
 01_generate_data.py
-Generates a synthetic Amex-Offers-style dataset: customers, merchants,
+Generates a synthetic dataset: customers, merchants,
 offers, and offer_exposures (the fact table — a card member is shown
 an offer and may or may not redeem it).
 
-Why synthetic: Amex doesn't publish real Offers data, so this project
-simulates realistic behavior with an underlying probability model
-(customer engagement level x category appeal x discount size x
-spend barrier) so that segmentation and category analysis downstream
-produce real, explainable signal instead of random noise.
-
-Run:    python 01_generate_data.py
-Output: data/customers.csv, data/merchants.csv, data/offers.csv,
-        data/offer_exposures.csv
 """
 
 import os
