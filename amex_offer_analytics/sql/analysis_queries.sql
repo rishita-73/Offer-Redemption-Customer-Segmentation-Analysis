@@ -2,7 +2,6 @@
 -- Amex Offers Analytics — Core SQL Queries
 -- Target: amex_offers.db (SQLite) — created by 02_load_to_sql.py
 -- These are the same queries 03_sql_analysis.py runs and exports;
--- kept here as a clean, standalone reference for your portfolio/interview.
 -- ============================================================
 
 -- 1. Overall offer adoption (redemption) rate
