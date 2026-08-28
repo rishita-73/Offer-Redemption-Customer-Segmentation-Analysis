@@ -3,8 +3,6 @@
 Generates the core charts for the project: redemption rate by category,
 customer segment distribution, RFM view, and revenue by segment.
 
-Run:    python 05_visualize.py
-Output: outputs/charts/*.png
 """
 
 import os
