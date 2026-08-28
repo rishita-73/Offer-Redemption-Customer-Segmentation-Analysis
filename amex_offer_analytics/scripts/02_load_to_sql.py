@@ -3,8 +3,6 @@
 Loads the CSVs in ./data into a local SQLite database (amex_offers.db)
 so you can run real SQL against it — no server install needed.
 
-Run:    python 02_load_to_sql.py
-Output: amex_offers.db (in the project root)
 """
 
 import os
